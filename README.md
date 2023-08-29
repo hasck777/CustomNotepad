@@ -1,0 +1,2 @@
+# CustomNotepad
+SimpleCustomNotepad In C#
